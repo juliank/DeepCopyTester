@@ -1,0 +1,2 @@
+Simple project demonstrating bug with [Fast Deep Copy by Expression Trees (C#)](https://www.codeproject.com/Articles/1111658/Fast-Deep-Copy-by-Expression-Trees-C-Sharp)
+when trying to copy a object with an "unenumerated" Enumerable.
